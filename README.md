@@ -13,7 +13,7 @@ source venv/bin/activate
 ```
 OR if using Conda + Delta NCSA GPUs:
 ```
-cd Conda
+cd Code
 conda create -n py311 python=3.11 # NOTE: DO THIS ONLY ONCE, AND YOU'RE FINE!
 conda activate py311
 python --version # OPTIONAL, just to verify correct python version
